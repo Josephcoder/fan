@@ -1,7 +1,7 @@
 const p = 3.14;
 let radius = 5;
 let d = 4;
-let cur = p * radius;
+let cur = p * radius * 9;
 
 console.log(cur);
 console.log(d);
